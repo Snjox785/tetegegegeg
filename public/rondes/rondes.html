@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rondes</title>
+    <link rel="stylesheet" href="/rondes/style-rondes.css">
+</head>
+<body>
+    <!-- Sidebar menu -->
+    <div class="menu">
+        <h2>MENU</h2>
+        <p id="usernameDisplay">{usernameshow}</p>
+        <p id="balanceDisplay">{solde}</p>
+        <div class="menu-section">
+            <h3>Beursspel</h3>
+            <button onclick="navigateTo('../beurs')">Beurs</button>
+            <button onclick="navigateTo('../dashboard')">Dashboard</button>
+            <button onclick="navigateTo('../excel')">Excel</button>
+        </div>
+        <div class="menu-section">
+            <h3>Instellingen</h3>
+            <button onclick="navigateTo('../instellingen')">Instellingen</button>
+            <button onclick="navigateTo('../admin')">Admin</button>
+        </div>
+        <button class="logout-btn" onclick="logout()">Uitloggen</button>
+    </div>
+
+    <!-- Hoofdinhoud -->
+    <div class="content">
+        <h1 class="page-title">Rondes</h1>
+        <p class="subtitle">Hier kun je het klassement volgen van het beursspel en alle informatie per persoon bekijken.</p>
+
+        <!-- Klassement -->
+        <div class="leaderboard">
+            <h2>Top 50 Gebruikers</h2>
+            <div id="leaderboardContainer"></div>
+        </div>
+    </div>
+
+    <!-- Pop-up voor gebruikersdetails -->
+    <div id="userPopup" class="popup">
+        <div class="popup-content">
+            <h2 id="popupUsername"></h2>
+            <p><strong>Saldo:</strong> €<span id="popupBalance"></span></p>
+
+            <h3>Actieve activa</h3>
+            <div class="scroll-container" id="activePortfolio"></div>
+
+            <h3>Verkochte activa</h3>
+            <div class="scroll-container" id="soldAssets"></div>
+
+            <button id="closePopup">Sluiten [ESC]</button>
+        </div>
+    </div>
+
+    <script src="/rondes/script-rondes.js"></script>
+</body>
+</html>

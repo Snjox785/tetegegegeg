@@ -1,0 +1,210 @@
+/* Algemene stijlen */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+.menu {
+    width: 250px;
+    background-color: #2c3e50;
+    color: white;
+    padding: 20px;
+    height: 100vh;
+    position: fixed;
+}
+
+.menu h2, .menu-section h3 {
+    text-align: center;
+}
+
+.menu button {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    background-color: #34495e;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.menu button:hover {
+    background-color: #1abc9c;
+}
+
+.logout-btn {
+    background-color: #e74c3c;
+}
+
+.logout-btn:hover {
+    background-color: #c0392b;
+}
+
+.content {
+    margin-left: 270px;
+    padding: 20px;
+}
+
+/* Titelelement */
+.page-title {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 30px;
+}
+
+.section .container {
+    background-color: #ecf0f1;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    margin-left: 10px; /* Voor de ruimte tussen de container en de menu */
+}
+
+.section h2 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Aankopen formulier */
+.form-container {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+input {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    flex: 1;
+}
+
+.buy-btn {
+    background-color: #2ecc71;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.buy-btn:hover {
+    background-color: #27ae60;
+}
+
+/* Portefeuille */
+/* Portefeuille container */
+.portfolio-container {
+    display: table;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+/* Portefeuille tabelrijen */
+.portfolio-item {
+    display: table-row;
+}
+
+/* Portefeuille kolommen */
+.portfolio-item span,
+.portfolio-item button {
+    display: table-cell;
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Header rij */
+.portfolio-header {
+    display: table-row;
+    background-color: #34495e;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.portfolio-header span {
+    display: table-cell;
+    padding: 10px;
+}
+
+/* Verkoopknop styling */
+.sell-btn {
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.sell-btn:hover {
+    background-color: #c0392b;
+}
+
+
+/* Totale portefeuille waarde */
+.total-portfolio {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #2ecc71;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.portfolio-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.portfolio-table th, .portfolio-table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.portfolio-table th {
+    background-color: #2c3e50;
+    color: white;
+}
+
+.popup {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+.popup-content {
+    text-align: center;
+}
+
+.popup-content button {
+    margin: 10px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.popup-content button:first-child {
+    background-color: #2ecc71;
+    color: white;
+}
+
+.popup-content button:last-child {
+    background-color: #e74c3c;
+    color: white;
+}

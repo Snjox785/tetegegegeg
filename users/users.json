@@ -1,0 +1,713 @@
+{
+  "users": [
+    {
+      "username": "fatimazohraelkandoussirahmouni@bimsem.be",
+      "usernameshow": "Fatima Zohra El Kandoussi Rahmouni",
+      "password": "Fatima?2847",
+      "grade": 2,
+      "solde": 10000
+    },
+    {
+      "username": "nassimsaddiki@bimsem.be",
+      "usernameshow": "Nassim Saddiki",
+      "password": "Nassim;1936",
+      "grade": 2,
+      "solde": 15.9400000000001,
+      "portfolio": [
+        {
+          "id": "1738254794573nbqj734tr",
+          "name": "Apple",
+          "isin": "",
+          "amount": 5,
+          "price": 228.57,
+          "currency": "EUR",
+          "date": "2025-01-30T16:33:14.573Z"
+        },
+        {
+          "id": "1738255068881juxidql9h",
+          "name": "LVMH",
+          "isin": "",
+          "amount": 6,
+          "price": 715.8,
+          "currency": "EUR",
+          "date": "2025-01-30T16:37:48.880Z"
+        },
+        {
+          "id": "1738255312655wsj0sswk9",
+          "name": "Christian Dior SA",
+          "isin": "",
+          "amount": 2,
+          "price": 658,
+          "currency": "EUR",
+          "date": "2025-01-30T16:41:52.654Z"
+        },
+        {
+          "id": "1738599640027nhn1qeafa",
+          "name": "Tesla",
+          "isin": "",
+          "amount": 1,
+          "price": 372.61,
+          "currency": "EUR",
+          "date": "2025-02-03T16:20:40.026Z"
+        },
+        {
+          "id": 1738863143733,
+          "name": "Amazon",
+          "isin": "US0231351067",
+          "amount": 10,
+          "price": 228.7,
+          "currency": "EUR",
+          "date": "2025-02-06T17:32:23.733Z"
+        },
+        {
+          "id": 1738943293396,
+          "name": "Paypal",
+          "isin": "US70450Y1038",
+          "amount": 8,
+          "price": 75.35,
+          "currency": "EUR",
+          "date": "2025-02-07T15:48:13.396Z"
+        }
+      ]
+    },
+    {
+      "username": "vinzbiesemans@bimsem.be",
+      "usernameshow": "Vinz Biesemans",
+      "password": "Vinz!4072",
+      "grade": 2,
+      "solde": 8537.65975,
+      "portfolio": [
+        {
+          "id": "1738065242378cmkn1kuys",
+          "name": "Venice Token",
+          "isin": "",
+          "amount": 100,
+          "price": 15.57,
+          "currency": "EUR",
+          "date": "2025-01-28T11:54:02.378Z"
+        }
+      ]
+    },
+    {
+      "username": "ayoubnahnouh@bimsem.be",
+      "usernameshow": "Ayoub Nahnouh",
+      "password": "Ayoub/6718",
+      "grade": 2,
+      "solde": 4754.758584,
+      "portfolio": [
+        {
+          "id": "1738569761939go36ww5cg",
+          "name": "Shiba Inu (SHIB)",
+          "isin": "",
+          "amount": 100,
+          "price": 0.00001416,
+          "currency": "EUR",
+          "date": "2025-02-03T08:02:41.936Z"
+        },
+        {
+          "id": "1738569872747dparjlvkd",
+          "name": "XRP (XRP)",
+          "isin": "",
+          "amount": 100,
+          "price": 2.3494,
+          "currency": "EUR",
+          "date": "2025-02-03T08:04:32.746Z"
+        },
+        {
+          "id": "1738569991896ri88t98zd",
+          "name": "Ethereum (ETH)",
+          "isin": "",
+          "amount": 1,
+          "price": 2550.8,
+          "currency": "EUR",
+          "date": "2025-02-03T08:06:31.895Z"
+        },
+        {
+          "id": "173857008064160zohl2vv",
+          "name": "Dogecoin (DOGE)",
+          "isin": "",
+          "amount": 10000,
+          "price": 0.24595,
+          "currency": "EUR",
+          "date": "2025-02-03T08:08:00.640Z"
+        }
+      ]
+    },
+    {
+      "username": "lucasvansteenbergen@bimsem.be",
+      "usernameshow": "Lucas Van Steenbergen",
+      "password": "Lucas,9324",
+      "grade": 2,
+      "solde": 4829.25,
+      "portfolio": [
+        {
+          "id": "1738569855486gslpgo3zp",
+          "name": "dogecoin",
+          "isin": "",
+          "amount": 20000,
+          "price": 0.25,
+          "currency": "EUR",
+          "date": "2025-02-03T08:04:15.485Z"
+        }
+      ]
+    },
+    {
+      "username": "jabermazgouti@bimsem.be",
+      "usernameshow": "Jaber Mazgouti",
+      "password": "Jaber?4981",
+      "grade": 2,
+      "solde": 10000
+    },
+    {
+      "username": "sofiansaddiki@bimsem.be",
+      "usernameshow": "Sofian Saddiki",
+      "password": "Sofian!6257",
+      "grade": 2,
+      "solde": 5670.42355,
+      "portfolio": [
+        {
+          "id": "1738260240007igva7vh0t",
+          "name": "Microsoft",
+          "isin": "",
+          "amount": 12,
+          "price": 397.77,
+          "currency": "EUR",
+          "date": "2025-01-30T18:04:00.006Z"
+        }
+      ]
+    },
+    {
+      "username": "noureddineouamari@bimsem.be",
+      "usernameshow": "Nour Eddine Ouamari",
+      "password": "Nour;2843",
+      "grade": 2,
+      "solde": 9150.97,
+      "portfolio": [
+        {
+          "id": "1738579867045ags8p6td4",
+          "name": "XRP",
+          "isin": "",
+          "amount": 200,
+          "price": 2.35,
+          "currency": "EUR",
+          "date": "2025-02-03T10:51:07.044Z"
+        }
+      ]
+    },
+    {
+      "username": "larsbucumi@bimsem.be",
+      "usernameshow": "Lars Bucumi",
+      "password": "Lars.3197",
+      "grade": 2,
+      "solde": 5771.45,
+      "portfolio": [
+        {
+          "id": "1738576160124gurau70ay",
+          "name": "tesla",
+          "isin": "",
+          "amount": 10,
+          "price": 395.43,
+          "currency": "EUR",
+          "date": "2025-02-03T09:49:20.123Z"
+        },
+        {
+          "id": 1739174091604,
+          "name": "semtech corp",
+          "isin": "",
+          "amount": 5,
+          "price": 52.85,
+          "currency": "EUR",
+          "date": "2025-02-10T07:54:51.604Z"
+        }
+      ]
+    },
+    {
+      "username": "nabilchallaf@bimsem.be",
+      "usernameshow": "Nabil Challaf",
+      "password": "Nabil?4568",
+      "grade": 2,
+      "solde": 3128.5452,
+      "portfolio": [
+        {
+          "id": "1738350981733ak2jpnsw1",
+          "name": "ASML Holding",
+          "isin": "",
+          "amount": 2,
+          "price": 719.826,
+          "currency": "EUR",
+          "date": "2025-01-31T19:16:21.732Z"
+        },
+        {
+          "id": "17383512172596bh7qh6bu",
+          "name": "APPLE",
+          "isin": "",
+          "amount": 4,
+          "price": 227.031,
+          "currency": "EUR",
+          "date": "2025-01-31T19:20:17.258Z"
+        },
+        {
+          "id": 1739110182672,
+          "name": "Google",
+          "isin": "",
+          "amount": 6,
+          "price": 179.381,
+          "currency": "EUR",
+          "date": "2025-02-09T14:09:42.670Z"
+        },
+        {
+          "id": 1739110658951,
+          "name": "Microsoft",
+          "isin": "",
+          "amount": 5,
+          "price": 396.577,
+          "currency": "EUR",
+          "date": "2025-02-09T14:17:38.951Z"
+        },
+        {
+          "id": 1739183972489,
+          "name": "Tesla",
+          "isin": "",
+          "amount": 5,
+          "price": 350.247,
+          "currency": "EUR",
+          "date": "2025-02-10T10:39:32.488Z"
+        }
+      ]
+    },
+    {
+      "username": "lanamarien@bimsem.be",
+      "usernameshow": "Lana Mariën",
+      "password": "Lana:5896",
+      "grade": 2,
+      "solde": 6103.35,
+      "portfolio": [
+        {
+          "id": "1738011823714g4twjoqdi",
+          "name": "FRA: TSFA",
+          "isin": "",
+          "amount": 5,
+          "price": 181.2,
+          "currency": "EUR",
+          "date": "2025-01-27T21:03:43.712Z"
+        },
+        {
+          "id": "17380135533001ijpz245s",
+          "name": "NASDAQ: AAPL",
+          "isin": "",
+          "amount": 5,
+          "price": 219.28,
+          "currency": "EUR",
+          "date": "2025-01-27T21:32:33.299Z"
+        },
+        {
+          "id": "1738013607045dv581bco4",
+          "name": "NASDAQ: GOOGL",
+          "isin": "",
+          "amount": 5,
+          "price": 182.85,
+          "currency": "EUR",
+          "date": "2025-01-27T21:33:27.044Z"
+        },
+        {
+          "id": "17380136344276k34clp70",
+          "name": "NYSE: NVO",
+          "isin": "",
+          "amount": 10,
+          "price": 83.42,
+          "currency": "EUR",
+          "date": "2025-01-27T21:33:54.426Z"
+        },
+        {
+          "id": "173801367674306xmso7qe",
+          "name": "LON: GOUD",
+          "isin": "",
+          "amount": 20,
+          "price": 7.29,
+          "currency": "EUR",
+          "date": "2025-01-27T21:34:36.742Z"
+        }
+      ]
+    },
+    {
+      "username": "iljopitot@bimsem.be",
+      "usernameshow": "Iljo Pitot",
+      "password": "Iljo;1938",
+      "grade": 2,
+      "solde": 1426.7,
+      "portfolio": [
+        {
+          "id": "17382236559940nphccypo",
+          "name": "KBC Groep NV",
+          "isin": "",
+          "amount": 20,
+          "price": 75.3,
+          "currency": "EUR",
+          "date": "2025-01-30T07:54:15.989Z"
+        },
+        {
+          "id": "1738223750100k1fmsy9yf",
+          "name": "Boeing Co",
+          "isin": "",
+          "amount": 20,
+          "price": 166.66,
+          "currency": "EUR",
+          "date": "2025-01-30T07:55:50.099Z"
+        },
+        {
+          "id": "1738223927093ogqgtrifu",
+          "name": "Tesla Inc",
+          "isin": "",
+          "amount": 10,
+          "price": 373.41,
+          "currency": "EUR",
+          "date": "2025-01-30T07:58:47.091Z"
+        }
+      ]
+    },
+    {
+      "username": "alexanderkazemi@bimsem.be",
+      "usernameshow": "Alexander Kazemi",
+      "password": "Alexander!4721",
+      "grade": 2,
+      "solde": 2785.4336,
+      "portfolio": [
+        {
+          "id": "1738570334004r12fsjvy1",
+          "name": "Goud",
+          "isin": "",
+          "amount": 2.66,
+          "price": 2729.54,
+          "currency": "EUR",
+          "date": "2025-02-03T08:12:14.003Z"
+        }
+      ]
+    },
+    {
+      "username": "youssratahrioui@bimsem.be",
+      "usernameshow": "Youssra Tahrioui",
+      "password": "Youssra.6743",
+      "grade": 2,
+      "solde": 10000
+    },
+    {
+      "username": "romaingoyeau@bimsem.be",
+      "usernameshow": "Romain Goyeau",
+      "password": "Romain,7985",
+      "grade": 4,
+      "solde": 0.00373288000037064,
+      "portfolio": [
+        {
+          "id": "1738524978710o9zvkr3qu",
+          "name": "XRP",
+          "isin": "",
+          "amount": 3028.2012,
+          "price": 2.5545,
+          "currency": "EUR",
+          "date": "2025-02-02T19:36:18.709Z"
+        },
+        {
+          "id": "1738584775450tk3utqp04",
+          "name": "Kia Motors Corp.",
+          "isin": "",
+          "amount": 46.4365,
+          "price": 29.55,
+          "currency": "EUR",
+          "date": "2025-02-03T12:12:55.448Z"
+        }
+      ]
+    },
+    {
+      "username": "ellavanbuggenhout@bimsem.be",
+      "usernameshow": "Ella Van Buggenhout",
+      "password": "Ella:4739",
+      "grade": 2,
+      "solde": 7538.2,
+      "portfolio": [
+        {
+          "id": "17384248311827gbworrzh",
+          "name": "Elia",
+          "isin": "",
+          "amount": 20,
+          "price": 65.25,
+          "currency": "EUR",
+          "date": "2025-02-01T15:47:11.181Z"
+        },
+        {
+          "id": "1738424961256mg709kptg",
+          "name": "Siemens Energy AG",
+          "isin": "",
+          "amount": 20,
+          "price": 57.84,
+          "currency": "EUR",
+          "date": "2025-02-01T15:49:21.255Z"
+        }
+      ]
+    },
+    {
+      "username": "janastraiger@bimsem.be",
+      "usernameshow": "Jana Straiger",
+      "password": "Jana?5398",
+      "grade": 2,
+      "solde": 10000
+    },
+    {
+      "username": "candisseigbineweka@bimsem.be",
+      "usernameshow": "Candisse Igbineweka",
+      "password": "Candisse!7324",
+      "grade": 2,
+      "solde": 1413.67,
+      "portfolio": [
+        {
+          "id": "1738523974000r7olkskub",
+          "name": "ASML",
+          "isin": "",
+          "amount": 5,
+          "price": 647.59,
+          "currency": "EUR",
+          "date": "2025-02-02T19:19:33.997Z"
+        },
+        {
+          "id": "1738524062999114vnaav0",
+          "name": "Microsoft",
+          "isin": "",
+          "amount": 6,
+          "price": 413.71,
+          "currency": "EUR",
+          "date": "2025-02-02T19:21:02.998Z"
+        },
+        {
+          "id": "173852409955006wy9ifth",
+          "name": "The Coca-Cola Company",
+          "isin": "",
+          "amount": 31,
+          "price": 60.52,
+          "currency": "EUR",
+          "date": "2025-02-02T19:21:39.549Z"
+        },
+        {
+          "id": "1738524170111dr22x5rqu",
+          "name": "Vivoryon Therapeutics NV",
+          "isin": "",
+          "amount": 500,
+          "price": 1.98,
+          "currency": "EUR",
+          "date": "2025-02-02T19:22:50.108Z"
+        }
+      ]
+    },
+    {
+      "username": "toondenhartog@bimsem.be",
+      "usernameshow": "Toon den Hartog",
+      "password": "Toon;4687",
+      "grade": 2,
+      "solde": 10000
+    },
+    {
+      "username": "flintcroes@bimsem.be",
+      "usernameshow": "Flint Croes",
+      "password": "Flint:3912",
+      "grade": 2,
+      "solde": 1482.995,
+      "portfolio": [
+        {
+          "id": "17382616267974n1sg4ql0",
+          "name": "NVIDIA CORP",
+          "isin": "",
+          "amount": 30,
+          "price": 114.837,
+          "currency": "EUR",
+          "date": "2025-01-30T18:27:06.796Z"
+        },
+        {
+          "id": "173826168596425z4wxitt",
+          "name": "ASML",
+          "isin": "",
+          "amount": 4,
+          "price": 706.7,
+          "currency": "EUR",
+          "date": "2025-01-30T18:28:05.964Z"
+        },
+        {
+          "id": "1738263594231zy8h6lqqv",
+          "name": "Chevron",
+          "isin": "",
+          "amount": 15,
+          "price": 149.673,
+          "currency": "EUR",
+          "date": "2025-01-30T18:59:54.230Z"
+        }
+      ]
+    },
+    {
+      "username": "lukasoonk@bimsem.be",
+      "usernameshow": "Lukas Oonk",
+      "password": "Lukas.2876",
+      "grade": 2,
+      "solde": 1491.8,
+      "portfolio": [
+        {
+          "id": "1738080655972gv3bd6mks",
+          "name": "Tesla",
+          "isin": "",
+          "amount": 10,
+          "price": 374.02,
+          "currency": "EUR",
+          "date": "2025-01-28T16:10:55.971Z"
+        },
+        {
+          "id": "1738080837512gvgahyhiy",
+          "name": "Apple",
+          "isin": "",
+          "amount": 10,
+          "price": 229.34,
+          "currency": "EUR",
+          "date": "2025-01-28T16:13:57.511Z"
+        },
+        {
+          "id": "1738142446370vng4ktb0m",
+          "name": "NVIDIA",
+          "isin": "",
+          "amount": 20,
+          "price": 123.73,
+          "currency": "EUR",
+          "date": "2025-01-29T09:20:46.369Z"
+        }
+      ]
+    },
+    {
+      "username": "tristankluppels@bimsem.be",
+      "usernameshow": "Tristan Kluppels",
+      "password": "Tristan!9261",
+      "grade": 2,
+      "solde": 1485.0797,
+      "portfolio": [
+        {
+          "id": "1738071948928fnarg3fmb",
+          "name": "Solana",
+          "isin": "",
+          "amount": 4,
+          "price": 227.059,
+          "currency": "EUR",
+          "date": "2025-01-28T13:45:48.928Z"
+        },
+        {
+          "id": "17384337026694dfiig3ny",
+          "name": "Apple",
+          "isin": "",
+          "amount": 10,
+          "price": 227.752,
+          "currency": "EUR",
+          "date": "2025-02-01T18:15:02.668Z"
+        },
+        {
+          "id": "17384444214249ljrsokfr",
+          "name": "Ripple",
+          "isin": "",
+          "amount": 50,
+          "price": 2.8312,
+          "currency": "EUR",
+          "date": "2025-02-01T21:13:41.423Z"
+        },
+        {
+          "id": 1738853954632,
+          "name": "tesla",
+          "isin": "",
+          "amount": 4,
+          "price": 352.937,
+          "currency": "EUR",
+          "date": "2025-02-06T14:59:14.631Z"
+        },
+        {
+          "id": 1738933755943,
+          "name": "Melexis",
+          "isin": "",
+          "amount": 60,
+          "price": 54.65,
+          "currency": "EUR",
+          "date": "2025-02-07T13:09:15.942Z"
+        }
+      ]
+    },
+    {
+      "username": "matthieuvermeersch@bimsem.be",
+      "usernameshow": "Matthieu Vermeersch",
+      "password": "Matthieu?4523",
+      "grade": 2,
+      "solde": 1246.165,
+      "portfolio": [
+        {
+          "id": "1738426107129uo3ojarmk",
+          "name": "BNP Paribas",
+          "isin": "",
+          "amount": 11,
+          "price": 63.95,
+          "currency": "EUR",
+          "date": "2025-01-27T17:30:52.555Z"
+        },
+        {
+          "id": "1738426130265p1gdpm7sf",
+          "name": "Visa",
+          "isin": "",
+          "amount": 4,
+          "price": 331,
+          "currency": "EUR",
+          "date": "2025-01-27T17:30:52.555Z"
+        },
+        {
+          "id": 1738870738902,
+          "name": "Melexis",
+          "isin": "",
+          "amount": 56,
+          "price": 54.25,
+          "currency": "EUR",
+          "date": "2025-02-06T19:38:58.901Z"
+        },
+        {
+          "id": 1738870801629,
+          "name": "ASML",
+          "isin": "",
+          "amount": 4,
+          "price": 715.3,
+          "currency": "EUR",
+          "date": "2025-02-06T19:40:01.629Z"
+        },
+        {
+          "id": 1738871038849,
+          "name": "Alphabet",
+          "isin": "",
+          "amount": 8,
+          "price": 191.19,
+          "currency": "EUR",
+          "date": "2025-02-06T19:43:58.848Z"
+        }
+      ]
+    },
+    {
+      "username": "mee@bimsem.be",
+      "usernameshow": "Dave Meersman",
+      "password": "Dave:4572",
+      "grade": 4,
+      "solde": 0,
+      "portfolio": []
+    },
+    {
+      "username": "basile.vlerick1@gmail.com",
+      "usernameshow": "Basilicum",
+      "password": "Basile",
+      "grade": 3,
+      "solde": 10248.982,
+      "portfolio": [
+        {
+          "id": 1738653734580,
+          "name": "Test",
+          "isin": "",
+          "amount": 2,
+          "price": 2,
+          "currency": "EUR",
+          "date": "2025-02-04T07:22:14.579Z"
+        }
+      ]
+    }
+  ]
+}

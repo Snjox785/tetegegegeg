@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 - Pagina niet gevonden</title>
+    <link rel="stylesheet" href="/404/style-404.css">
+    <script src="/404/script-404.js" defer></script>
+</head>
+<body>
+    <!-- Sidebar -->
+    <div class="menu">
+        <h2>MENU</h2>
+        <p id="usernameDisplay">Gebruiker: Laden...</p>
+        <p id="balanceDisplay">Saldo: Laden...</p>
+        <div class="menu-section">
+            <h3>Beursspel</h3>
+            <button onclick="navigateTo('../beurs')">Beurs</button>
+            <button onclick="navigateTo('../rondes')">Rondes</button>
+            <button onclick="navigateTo('../excel')">Excel</button>
+        </div>
+        <div class="menu-section">
+            <h3>Instellingen</h3>
+            <button onclick="navigateTo('../instellingen')">Instellingen</button>
+            <button onclick="navigateTo('../admin')">Admin</button>
+        </div>
+        <button class="logout-btn" onclick="logout()">Uitloggen</button>
+    </div>
+
+    <!-- 404 Content -->
+    <div class="content">
+        <div class="container">
+            <h1>404</h1>
+            <p>Oeps! De pagina die je zoekt is niet gevonden.</p>
+            <a href="/dashboard" class="btn">Ga terug naar Dashboard</a>
+        </div>
+    </div>
+</body>
+</html>

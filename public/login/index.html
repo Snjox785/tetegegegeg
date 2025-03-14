@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inloggen</title>
+    <link rel="stylesheet" href="/login/style-login.css">
+</head>
+<body>
+    <div class="login-container">
+        <h1>Inloggen</h1>
+        <form class="login-form" id="loginForm">
+            <input type="text" id="username" placeholder="E-mail" required>
+            <input type="password" id="password" placeholder="Wachtwoord" required>
+            <div class="show-password-container">
+                <input type="checkbox" id="show-password">
+                <label for="show-password">Wachtwoord tonen</label>
+            </div>
+            <p id="error-message"></p>
+            <button type="submit">Inloggen</button>
+        </form>
+    </div>
+
+    <script src="/login/script-login.js" defer></script>
+</body>
+</html>

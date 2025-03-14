@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Excel Generatie</title>
+    <link rel="stylesheet" href="style-excel.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+</head>
+<body>
+    <!-- Sidebar -->
+    <div class="menu">
+        <h2>MENU</h2>
+        <p id="usernameDisplay">Gebruiker: Niet ingelogd</p>
+        <p id="balanceDisplay">Saldo: €0.00</p>
+        <div class="menu-section">
+            <h3>Beursspel</h3>
+            <button onclick="navigateTo('../beurs')">Beurs</button>
+            <button onclick="navigateTo('../rondes')">Rondes</button>
+            <button onclick="navigateTo('../dashboard')">Dashboard</button>
+        </div>
+        <div class="menu-section">
+            <h3>Instellingen</h3>
+            <button onclick="navigateTo('../instellingen')">Instellingen</button>
+            <button onclick="navigateTo('../admin')">Admin</button>
+        </div>
+        <button class="logout-btn" onclick="logout()">Uitloggen</button>
+    </div>
+
+    <!-- Hoofdinhoud -->
+    <div class="content">
+        <h2>Excel Bestand Genereren</h2>
+        <p>Klik op de knop hieronder om een Excel-bestand te genereren met jouw actieve en verkochte activa.</p>
+        <button onclick="generateExcel()">📊 Genereer Excel</button>
+    </div>
+
+    <script src="script-excel.js"></script>
+</body>
+</html>
